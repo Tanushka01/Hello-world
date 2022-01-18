@@ -1,2 +1,2 @@
-# Software-Eng-Workshop
+# Hello-World
 Week 1 Workshop
